@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(Dec 7 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Sara Dunn)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment utilizes ajax to create a seminole movie database using a movie database api.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://saraadunn.github.io/lesson8_ajax/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Inserting an API key to be able to access the movie database.)
+2. (Inserting jquery code using the $)
+3. (Using ID's using # to shorten the code to add new information)
+4. (Connecting the js page to index html to insert the information from the overview and other added information.)
+5. (accessing the data query in the js source)
